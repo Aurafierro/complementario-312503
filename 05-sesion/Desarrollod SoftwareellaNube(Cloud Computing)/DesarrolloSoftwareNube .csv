@@ -1,0 +1,81 @@
+Plataforma;Porcentaje de Uso;Año de Estudio;Porcentaje Global 2023;Porcentaje Uso Anterior;Crecimiento Anual;Comparativa con Competidores;Porcentaje Uso 2022
+Amazon Web Services (AWS);32,00%;2023;85,10%;72,30%;8,50%;5 % mayor que Azure;30,00%
+Microsoft Azure;30,00%;2023;85,00%;80,00%;7,50%;5 % menor que AWS;28,50%
+Google Cloud Platform (GCP);20,00%;2023;70,00%;60,00%;10,00%;10 % menor que AWS;18,00%
+IBM Cloud;7,00%;2022;55,00%;52,00%;3,50%;10 % menor que GCP;6,50%
+Oracle Cloud;6,50%;2022;60,00%;58,00%;5,00%;7 % menor que IBM;6,00%
+Alibaba Cloud;6,00%;2023;40,00%;42,00%;1,50%;12 % menor que Oracle;5,50%
+Salesforce Cloud;5,00%;2023;65,00%;50,00%;5,00%;2 % mayor que DigitalOcean;4,50%
+DigitalOcean;4,00%;2023;60,00%;55,00%;5,50%;15 % menor que Salesforce;3,50%
+VMware Cloud;5,00%;2023;45,00%;40,00%;6,00%;10 % menor que AWS;4,00%
+SAP Cloud;4,00%;2023;50,00%;45,00%;5,00%;5 % menor que VMware;3,50%
+Rackspace;3,50%;2022;60,00%;55,00%;7,50%;10 % menor que SAP;3,00%
+Huawei Cloud;3,00%;2023;52,00%;50,00%;4,00%;5 % menor que Alibaba;2,50%
+Red Hat OpenShift Cloud;2,50%;2023;40,00%;42,00%;2,00%;8 % menor que Huawei;2,00%
+Cloudflare;4,00%;2023;60,00%;58,00%;6,00%;7 % mayor que DigitalOcean;3,50%
+Pivotal Cloud Foundry;2,00%;2022;35,00%;32,00%;4,50%;10 % menor que Cloudflare;1,80%
+Tencent Cloud;2,00%;2023;38,00%;35,00%;4,50%;7 % menor que Red Hat OpenShift;1,50%
+Linode;3,00%;2023;50,00%;45,00%;5,00%;8 % menor que Alibaba;2,50%
+Oracle Cloud Infrastructure;4,50%;2022;60,00%;55,00%;6,00%;12 % mayor que IBM;4,00%
+Microsoft 365 Cloud;70,00%;2023;75,00%;68,00%;5,50%;5 % mayor que Google Cloud;65,00%
+IBM Cloud Private;5,50%;2022;55,00%;50,00%;5,00%;8 % menor que Oracle;5,00%
+DigitalOcean Cloud;5,00%;2023;60,00%;52,00%;5,00%;12 % mayor que Linode;4,50%
+Alibaba Cloud for AI;6,00%;2023;40,00%;38,00%;2,50%;5 % mayor que Oracle;5,50%
+Oracle Autonomous Cloud;5,00%;2023;50,00%;47,00%;6,00%;10 % menor que IBM;4,50%
+Microsoft Power BI Cloud;30,00%;2023;80,00%;75,00%;6,00%;15 % mayor que Salesforce;28,00%
+AWS Lambda;25,00%;2023;80,00%;77,50%;7,50%;12 % mayor que Microsoft Power BI;24,00%
+Heroku Cloud;3,00%;2023;45,00%;42,00%;3,00%;7 % menor que Oracle Autonomous;2,50%
+Vercel;2,50%;2023;40,00%;37,00%;3,50%;5 % mayor que Linode;2,00%
+Google App Engine;5,00%;2023;65,00%;60,00%;7,00%;8 % menor que Cloudflare;4,50%
+Cloud Foundry;2,50%;2022;52,00%;50,00%;4,00%;5 % mayor que Vercel;2,20%
+Firebase;35,00%;2023;45,00%;40,00%;5,00%;15 % mayor que Heroku;33,00%
+SwiftStack Cloud;2,00%;2023;55,00%;50,00%;6,00%;5 % mayor que IBM Cloud Private;1,50%
+RedHat Cloud;3,50%;2023;50,00%;47,00%;4,50%;10 % mayor que Linode;3,00%
+Arista Networks Cloud;3,00%;2022;50,00%;48,00%;5,00%;2 % menor que SwiftStack Cloud;2,50%
+Nutanix Cloud;3,00%;2023;60,00%;55,00%;7,00%;5 % mayor que RedHat Cloud;2,80%
+CloudStack;2,50%;2023;47,00%;45,00%;5,00%;7 % mayor que Nutanix Cloud;2,30%
+Amazon Lightsail;3,00%;2023;42,00%;40,00%;6,50%;5 % mayor que Alibaba;2,80%
+CenturyLink Cloud;2,50%;2023;40,00%;39,00%;3,00%;5 % mayor que Rackspace;2,30%
+Azure Stack;3,50%;2023;52,00%;50,00%;5,50%;8 % mayor que AWS Lambda;3,00%
+OpenStack;2,00%;2022;35,00%;33,00%;4,50%;5 % mayor que Azure Stack;1,50%
+WSO2 Cloud;2,00%;2023;45,00%;42,00%;4,00%;7 % menor que OpenStack;1,80%
+Nimbix;2,50%;2023;38,00%;35,00%;5,00%;10 % mayor que AWS;2,30%
+Spotinst;2,00%;2022;50,00%;47,00%;6,50%;10 % mayor que Nimbix;1,80%
+ClearData;2,50%;2023;35,00%;33,50%;5,00%;8 % mayor que WSO2 Cloud;2,20%
+Zoho Cloud;2,50%;2023;45,00%;40,00%;6,00%;5 % menor que Spotinst;2,20%
+MongoDB Atlas Cloud;4,00%;2023;42,00%;40,50%;3,50%;7 % mayor que ClearData;3,80%
+NetSuite Cloud;3,00%;2023;45,00%;42,00%;4,50%;8 % mayor que Zoho Cloud;2,50%
+Infor Cloud;3,00%;2023;50,00%;45,00%;6,00%;10 % mayor que MongoDB Atlas;2,80%
+Elastic Cloud;3,00%;2023;55,00%;53,00%;5,00%;5 % mayor que NetSuite Cloud;2,80%
+Cloud Academy;2,50%;2023;40,00%;38,00%;4,50%;6 % mayor que Infor Cloud;2,20%
+Kyvos Cloud;2,00%;2023;35,00%;32,50%;5,50%;5 % mayor que Elastic Cloud;1,80%
+Castrol Cloud;2,50%;2023;38,00%;36,00%;4,00%;6 % mayor que Cloud Academy;2,30%
+Datadog Cloud;3,00%;2023;55,00%;53,00%;5,00%;5 % mayor que Kyvos Cloud;2,80%
+Clearbit Cloud;2,50%;2023;40,00%;37,50%;4,00%;5 % mayor que Castrol Cloud;2,30%
+Digizuite Cloud;2,00%;2023;45,00%;42,50%;4,50%;7 % mayor que Datadog Cloud;1,80%
+Wix Cloud;2,50%;2023;40,00%;38,00%;4,00%;6 % mayor que Clearbit Cloud;2,30%
+CoreOS Cloud;2,50%;2023;38,00%;35,00%;4,50%;8 % mayor que Digizuite Cloud;2,30%
+Salesforce Marketing Cloud;2,50%;2023;50,00%;48,00%;5,00%;6 % mayor que Wix Cloud;2,20%
+AppFog Cloud;3,00%;2023;42,00%;40,00%;4,50%;5 % mayor que CoreOS Cloud;2,80%
+Quorum Cloud;2,00%;2023;45,00%;42,50%;4,00%;6 % mayor que Salesforce Marketing Cloud;2,50%
+Cloudera Cloud;3,00%;2023;50,00%;47,00%;5,00%;8 % mayor que AppFog Cloud;2,50%
+Virtustream Cloud;2,50%;2023;40,00%;38,00%;4,50%;7 % mayor que Quorum Cloud;2,30%
+Veeva Vault Cloud;3,00%;2023;45,00%;42,50%;5,00%;7 % mayor que Cloudera Cloud;2,80%
+MongoDB Cloud;4,00%;2023;50,00%;48,00%;5,50%;8 % mayor que Virtustream Cloud;3,80%
+Netlify Cloud;3,00%;2023;55,00%;52,00%;5,00%;8 % mayor que Veeva Vault Cloud;2,80%
+Auth0 Cloud;3,00%;2023;60,00%;58,00%;6,00%;8 % mayor que MongoDB Cloud;2,80%
+Square Cloud;2,50%;2023;45,00%;43,00%;4,50%;6 % mayor que Netlify Cloud;2,30%
+JFrog Cloud;3,00%;2023;50,00%;48,00%;5,00%;8 % mayor que Auth0 Cloud;2,80%
+Twilio Cloud;2,50%;2023;45,00%;42,50%;4,00%;6 % mayor que Square Cloud;2,30%
+AWS Snowball;2,50%;2023;40,00%;37,00%;4,50%;7 % mayor que JFrog Cloud;2,30%
+CircleCI Cloud;2,00%;2023;55,00%;52,00%;6,00%;8 % mayor que Twilio Cloud;2,00%
+Box Cloud;3,00%;2023;50,00%;47,50%;5,50%;5 % mayor que AWS Snowball;2,80%
+PagerDuty Cloud;2,50%;2023;48,00%;46,00%;5,00%;6 % mayor que CircleCI Cloud;2,30%
+Bitbucket Cloud;2,00%;2023;45,00%;42,50%;4,50%;7 % mayor que Box Cloud;2,00%
+CloudBolt Cloud;2,50%;2023;48,00%;45,50%;5,50%;6 % mayor que PagerDuty Cloud;2,30%
+A10 Networks Cloud;2,00%;2023;47,00%;45,00%;5,50%;7 % mayor que Bitbucket Cloud;2,00%
+Okta Cloud;3,00%;2023;55,00%;52,00%;5,50%;8 % mayor que CloudBolt Cloud;2,80%
+Pulsar Cloud;2,50%;2023;48,00%;45,00%;6,00%;6 % mayor que A10 Networks Cloud;2,30%
+Moogsoft Cloud;2,50%;2023;50,00%;48,00%;5,50%;7 % mayor que Okta Cloud;2,50%
+Couchbase Cloud;3,00%;2023;55,00%;53,00%;5,00%;6 % mayor que Pulsar Cloud;2,80%
+Mulesoft Cloud;2,50%;2023;45,00%;42,00%;5,00%;7 % mayor que Moogsoft Cloud;2,30%

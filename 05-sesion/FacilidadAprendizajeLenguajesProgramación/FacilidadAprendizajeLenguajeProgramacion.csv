@@ -1,0 +1,62 @@
+Lenguaje,Popularidad (%),Facilidad de Aprendizaje (%),Comunidad (%),Uso en Automatizacizacion (%),Facilidad
+Python,75%,85%,90%,60%,Muy facil para principiantes
+"JavaScript,70%,80%,85%,40%,""Facilcil, pero requiere practica"""
+Java,65%,70%,80%,50%,Moderadamente facil
+"C,60%,60%,75%,35%,""Mas dificil, requiere conocimiento profundo"""
+"C++,55%,65%,70%,45%,""dificil, pero poderoso"""
+"Rust,50%,65%,60%,40%,""Complejo, recomendado para expertos"""
+"Ruby,45%,80%,85%,30%,""facil de aprender, sintaxis clara"""
+"Go,55%,75%,70%,50%,""Relativamente facil, sintaxis simple"""
+Swift,60%,80%,85%,35%,facil para aplicaciones viales
+"Kotlin,60%,80%,80%,40%,""facill de aprender, sintaxis moderna"""
+PHP,50%,60%,70%,25%,Mas facil para el desarrollo web
+R,45%,70%,80%,20%,Mas facil para estadi≠sticas
+TypeScript,60%,75%,80%,45%,facil para desarrolladores de JS
+MATLAB,50%,65%,60%,10%,facilpara matematicas y an√°lisis
+"SQL,80%,60%,75%,25%,""Relativamente facil, ma°s sencillo que otros lenguajes"""
+Lua,45%,70%,60%,15%,Facil para scripting en juegos
+Perl,40%,65%,50%,20%,Facil para tareas de texto
+Scala,40%,60%,50%,35%,Moderadamente dificil
+Objective-C,45%,65%,55%,30%,Difi≠cil para nuevos programadores
+"Dart,40%,70%,60%,25%,""facil, pero algo especifico para Flutter"""
+"Haskell,35%,55%,45%,10%,""Muy dificil, recomendado para expertos"""
+GoLang,55%,75%,60%,50%,Relativamente facil y eficiente
+Elixir,40%,60%,45%,20%,Moderadamente dificil
+Shell,50%,70%,80%,90%,Facil para automatizacion y scripting
+C#,65%,70%,80%,35%,Moderadamente facil
+"F#,40%,50%,45%,25%,""Mas complejo, utilizado en areas matematicas"""
+Groovy,45%,60%,55%,35%,Relativamente facil para integraciones
+"VHDL,25%,50%,40%,80%,""Dificil, especifico para hardware"""
+"Fortran,30%,55%,50%,20%,""Antiguo, mas difi≠cil de aprender"""
+"Ada,25%,50%,40%,15%,""Muy dificil, usado en sistemas craticos"""
+Julia,45%,65%,60%,30%,Relativamente facil para ciencias
+Groovy,50%,65%,60%,30%,Relativamente f√°cil para desarrolladores
+"ActionScript,35%,50%,40%,15%,""Relativamente facil, pero ya menos popular"""
+"Clojure,35%,50%,45%,25%,""dificil, pero flexible"""
+"Objective-J,30%,45%,30%,5%,""dificil, mas limitado en uso"""
+"Erlang,30%,55%,40%,30%,""Moderadamente dificil, usado en telecomunicaciones"""
+"Lisp,35%,50%,50%,15%,""dificil, con una comunidad mas pequeÒa"""
+Racket,25%,45%,40%,10%,Mas facil que otros dialectos de Lisp
+Tcl,30%,50%,45%,20%,Facil para scripting y automatizacion
+"Smalltalk,30%,55%,50%,15%,""dificil en desarrollo agil"""
+F#,45%,60%,60%,30%,Moderadamente facil para programacion funcional
+"Kotlin,60%,75%,75%,40%,""Facil, usado en Android"""
+TypeScript,65%,75%,85%,30%,Facil para JS y desarrollo frontend
+Swift,70%,80%,85%,35%,Muy facil para desarrollo iOS
+PHP,75%,60%,70%,20%,Facil para el desarrollo web
+"GoLang,60%,70%,75%,50%,""Relativamente facil, eficiente"""
+"Ruby,65%,75%,80%,25%,""Muy facil, pero algo menos eficiente"""
+"C++,55%,60%,65%,40%,""dificil, pero potente"""
+C,50%,60%,70%,35%,Requiere buen conocimiento tecnico
+"Rust,40%,55%,50%,45%,""dificil, pero muy eficiente"""
+Java,75%,60%,80%,50%,Bastante facil para aplicaciones grandes
+"Python,85%,90%,95%,60%,""Muy facil, versatil y popular"""
+Kotlin,65%,75%,70%,50%,Muy facil para moviles
+TypeScript,70%,75%,90%,35%,Facil para desarrollo web frontend
+Swift,80%,80%,90%,35%,Muy facil para aplicaciones moviles
+"Lua,40%,55%,60%,20%,""Facil, usado en juegos"""
+TypeScript,60%,75%,80%,40%,Mas facil que JS puro
+Python,80%,90%,95%,50%,Muy facil y versatil
+Go,55%,70%,60%,45%,Facil para concurrencia y servicios
+"PHP,65%,70%,80%,35%,""Relativamente facil, popular para web"""
+"Scala,45%,60%,55%,40%,""Dificil, pero optil en aplicaciones concurrentes"""

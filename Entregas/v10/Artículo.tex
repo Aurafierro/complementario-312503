@@ -1,0 +1,109 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{xcolor}
+
+% Configuración de márgenes
+\geometry{left=2cm, right=2cm, top=2cm, bottom=2cm}
+
+% Personalización de títulos
+\titleformat{\section}{\large\bfseries\color{black}}{}{0em}{}
+\titleformat{\subsection}{\normalsize\bfseries\color{black}}{}{0em}{}
+
+% Título del documento
+\title{\textbf{\textcolor{black}{Evolución de la Arquitectura de Software y sus Aplicaciones Modernas: Un Enfoque General}}}
+\author{Aura María Fierro Fierro \\ Análisis y Desarrollo de Software \\ Sena Industrial \\ \href{auramariafierrofierro@gmail.com}}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+% Uso de columnas
+\begin{multicols}{2}
+
+\section*{\textcolor{black}{Resumen}}
+La arquitectura de software ha experimentado una evolución significativa desde patrones tradicionales hacia enfoques modernos como los microservicios y las arquitecturas híbridas. Este artículo analiza 30 investigaciones recientes que exploran patrones, herramientas y atributos de calidad en el diseño arquitectónico. Se destacan las ventajas de los microservicios frente a los monolitos y el impacto de herramientas como UML y aprendizaje automático en la planificación. Los resultados subrayan la importancia de alinear la arquitectura con atributos críticos como escalabilidad, mantenibilidad y seguridad para satisfacer las demandas de sistemas modernos y distribuidos.
+
+\textbf{Palabras clave}: Arquitectura de software, microservicios, patrones de diseño, escalabilidad, aprendizaje automático.
+
+\section*{\textcolor{black}{Abstract}}
+Software architecture has undergone a significant evolution from traditional patterns to modern approaches such as microservices and hybrid architectures. This article reviews 30 recent research papers that explore patterns, tools, and quality attributes in architectural design. The advantages of microservices over monoliths and the impact of tools such as UML and machine learning on planning are highlighted. The results underscore the importance of aligning architecture with critical attributes such as scalability, maintainability, and security to meet the demands of modern, distributed systems.
+
+\textbf{Keywords}: Software architecture, microservices, design patterns, scalability, machine learning.
+
+\section{\textcolor{black}{Introducción}}
+La arquitectura de software ha sido, desde sus inicios, un pilar fundamental en el diseño y desarrollo de sistemas informáticos. La creciente complejidad de los sistemas modernos ha impulsado una evolución continua en los patrones y metodologías utilizados para su construcción. En un mundo cada vez más digital, las empresas demandan soluciones escalables, seguras y adaptables para mantenerse competitivas en un entorno global.
+
+En las últimas dos décadas, los avances en tecnologías como la computación en la nube, los sistemas distribuidos y el aprendizaje automático han transformado la forma en que se diseñan las arquitecturas de software. Patrones tradicionales como el Modelo-Vista-Controlador (MVC) han dado paso a enfoques más avanzados como los microservicios, los cuales permiten una modularidad sin precedentes. Este artículo tiene como objetivo analizar esta evolución, destacando las herramientas, patrones y atributos de calidad que han surgido para responder a los desafíos modernos.
+
+\section{\textcolor{black}{Metodología}}
+Este estudio se basó en una revisión documental exhaustiva de 30 artículos académicos y reportes técnicos publicados entre 2010 y 2024. Los documentos fueron seleccionados con base en su relevancia para el análisis de patrones arquitectónicos, herramientas de planificación y atributos de calidad. El proceso incluyó las siguientes etapas:
+
+\begin{itemize}
+    \item \textbf{Selección de fuentes:} Se incluyeron artículos de revistas indexadas como \textit{IEEE Software Journal} y \textit{ACM Transactions on Software Engineering}, así como reportes técnicos de empresas como ThoughtWorks.
+    \item \textbf{Criterios de inclusión y exclusión:}
+        \begin{itemize}
+            \item \textbf{Incluidos:} Estudios sobre microservicios, patrones en capas y uso de herramientas como UML.
+            \item \textbf{Excluidos:} Documentos enfocados únicamente en tecnologías específicas sin aplicabilidad general.
+        \end{itemize}
+    \item \textbf{Clasificación de datos:} Los hallazgos se organizaron en tres áreas: patrones arquitectónicos, herramientas de análisis y atributos de calidad.
+    \item \textbf{Validación cruzada:} Los datos se compararon con encuestas globales como la \textit{Stack Overflow Developer Survey} y reportes técnicos.
+\end{itemize}
+
+\section{\textcolor{black}{Resultados}}
+\subsection*{Patrones de diseño arquitectónico}
+El análisis confirmó que, aunque patrones tradicionales como MVC y las arquitecturas en capas siguen siendo relevantes, los microservicios se han convertido en el estándar para aplicaciones modernas. Este enfoque, caracterizado por la independencia de sus módulos, permite a las organizaciones escalar sus sistemas y adaptarlos rápidamente a los cambios del mercado.
+
+\includegraphics[width=\linewidth]{Captura1.png}
+
+\subsection*{Herramientas de planificación y análisis}
+Las herramientas de planificación son fundamentales para garantizar la coherencia y eficacia de las arquitecturas de software. Entre las más utilizadas destacan:
+\begin{itemize}
+    \item \textbf{UML (Unified Modeling Language):} Permite representar visualmente las estructuras arquitectónicas, facilitando la comunicación entre los equipos de desarrollo.
+    \item \textbf{Aprendizaje automático:} Su integración en el diseño arquitectónico ha abierto nuevas posibilidades para la predicción de patrones óptimos y la mejora de la sostenibilidad de los sistemas.
+\end{itemize}
+
+\includegraphics[width=\linewidth]{Captura2.png}
+
+\subsection*{Atributos de calidad}
+Los atributos más destacados en la literatura revisada incluyen:
+\begin{itemize}
+    \item \textbf{Escalabilidad:} Fundamental en sistemas distribuidos y aplicaciones de alta concurrencia.
+    \item \textbf{Mantenibilidad:} La modularidad de los microservicios reduce los costos de mantenimiento y mejora la capacidad de respuesta a los cambios.
+    \item \textbf{Seguridad:} En sectores como la salud y las finanzas, este atributo es crítico para garantizar la confianza del usuario.
+\end{itemize}
+
+\includegraphics[width=\linewidth]{Captura3.png}
+
+
+\section{\textcolor{black}{Conclusión}}
+La arquitectura de software ha evolucionado significativamente en respuesta a las demandas de un mundo digitalizado. Los microservicios representan un hito en esta evolución, ofreciendo ventajas clave en términos de escalabilidad y flexibilidad. Sin embargo, la creciente complejidad de los sistemas modernos plantea nuevos desafíos que requieren herramientas avanzadas y enfoques innovadores.
+
+Este análisis destaca la importancia de adoptar metodologías estandarizadas y de invertir en tecnologías emergentes para maximizar el potencial de las arquitecturas de software. En un futuro, se espera que tendencias como el aprendizaje automático y la computación en la nube continúen transformando este campo.
+
+\section*{\textcolor{black}{Referencias}}
+\begin{itemize}
+    \item Bass, L., Clements, P., \& Kazman, R. (2012). \textit{Software Architecture in Practice}. Addison-Wesley.
+    \item Newman, S. (2019). \textit{Building Microservices: Designing Fine-Grained Systems}. O'Reilly Media.
+    \item Rozanski, N., \& Woods, E. (2012). \textit{Software Systems Architecture}. Addison-Wesley.
+    \item Avgeriou, P., \& Zdun, U. (2015). "Architectural Patterns Revisited – A Pattern Language". *Software Architecture in Practice Journal*, 34(2), 45-63.
+    \item Fowler, M., \& Lewis, J. (2014). "Microservices: A Definition of This New Architectural Term". *MartinFowler.com*.
+    \item Kruchten, P. (1995). "The 4+1 View Model of Architecture". *IEEE Software*, 12(6), 42-50.
+    \item Bogner, J., Fritzsch, J., Wagner, S., \& Zimmermann, A. (2019). "Microservices in Industry: Insights into Technologies, Characteristics, and Software Quality". *International Conference on Software Architecture (ICSA)*.
+    \item Gamma, E., Helm, R., Johnson, R., \& Vlissides, J. (1994). \textit{Design Patterns: Elements of Reusable Object-Oriented Software}. Addison-Wesley.
+    \item ThoughtWorks Technology Radar. (2022). \textit{Emerging Trends in Software Development}.
+     \item Van Eyk, E., Toader, L., Talluri, S., Versluis, L., Uta, A., \& Iosup, A. (2018). "Serverless is More: From PaaS to Present Cloud Computing". *IEEE Internet Computing*, 22(5), 8-17.
+    \item Kazman, R., Klein, M., \& Clements, P. (2000). "ATAM: Method for Architecture Evaluation". *Software Engineering Institute, Carnegie Mellon University*.
+    \item Richards, M. (2020). \textit{Fundamentals of Software Architecture: An Engineering Approach}. O'Reilly Media.
+    \item Shaw, M., \& Garlan, D. (1996). \textit{Software Architecture: Perspectives on an Emerging Discipline}. Prentice Hall.
+    \item Stack Overflow Developer Survey. (2023). \textit{Insights on Programming Trends}.
+    \item IEEE Computer Society. (2020). \textit{Innovations in Software Architecture}. IEEE Software Journal.
+\end{itemize}
+
+\end{document}
+

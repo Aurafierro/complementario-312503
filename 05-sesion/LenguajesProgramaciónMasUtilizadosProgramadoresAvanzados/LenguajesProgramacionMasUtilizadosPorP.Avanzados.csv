@@ -1,0 +1,64 @@
+Lenguaje;Porcentaje de uso;Facilidad de Aprendizaje;Uso en Investigación;Porcentaje de adopción en empresas
+Python;85.3%;9;8;40%
+JavaScript;85.3%;8;7;35%
+Java;85.3%;7;7;60%
+C++;83.8%;6;8;50%
+C#;73.5%;8;6;55%
+Rust;73.5%;5;9;20%
+Go;73.6%;8;7;30%
+TypeScript;72.6%;7;6;40%
+Swift;72.1%;8;6;25%
+Ruby;72.1%;8;5;15%
+Kotlin;70.4%;7;7;35%
+PHP;70.2%;8;5;45%
+R;70.2%;6;9;10%
+SQL;70.2%;9;7;90%
+Bash/Shell scripting;70.2%;7;5;50%
+MATLAB;60.8%;5;8;20%
+Perl;60.8%;7;6;10%
+Objective-C;60.8%;7;6;15%
+Lua;60.8%;6;5;8%
+Dart;54.4%;6;5;5%
+Haskell;50.5%;5;8;5%
+Scala;50.5%;7;6;10%
+Elixir;50.2%;6;6;5%
+F#;50.2%;7;5;10%
+Groovy;50.2%;6;5;8%
+Visual Basic .NET;50.2%;6;5;20%
+Shell scripting;43.6%;7;5;40%
+Julia;43.3%;6;8;5%
+VHDL;43.3%;5;9;3%
+Assembly;43.3%;5;9;2%
+OCaml;40.8%;6;8;3%
+Apex;40.5%;7;6;2%
+T-SQL;40.3%;8;6;30%
+ActionScript;40.3%;6;5;1%
+Clojure;40.3%;7;6;2%
+Forth;40.3%;5;9;1%
+Simula;5.5%;6;8;1%
+Smalltalk;36.7%;6;5;1%
+Tcl;36.7%;7;6;1%
+Xojo;36.7%;7;6;2%
+Ruby on Rails;36.7%;8;5;3%
+Elm;36.7%;9;6;2%
+Vala;36.2%;7;5;1%
+F# .NET;36.2%;8;4;4%
+Crystal;36.2%;7;7;1%
+ClojureScript;36.2%;8;6;2%
+Rust WebAssembly;34.5%;5;8;1%
+Hack;23.5%;7;5;2%
+Racket;24.5%;5;9;1%
+Dart Flutter;24.5%;8;6;3%
+Mercury;24.5%;7;8;1%
+Zig;24.5%;6;7;1%
+Nim;23.7%;7;5;1%
+Red;20.3%;6;6;2%
+Pony;16.9%;8;9;1%
+JScript;12.5%;6;5;2%
+PureScript;12.5%;9;7;1%
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;

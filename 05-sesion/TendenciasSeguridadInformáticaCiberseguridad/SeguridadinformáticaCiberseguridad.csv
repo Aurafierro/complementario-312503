@@ -1,0 +1,71 @@
+Tendencia en Ciberseguridad;Porcentaje de Uso 2023;Porcentaje de Crecimiento 2023;Comparación con 2022 (%);Porcentaje de Adopción 2024;Crecimiento Esperado 2024 (%);Impacto Esperado (Alto/Medio/Bajo);Fuente de Datos
+Inteligencia Artificial para Detección de Amenazas;25,00%;40,00%;5%;35,00%;45%;Alto;Reporte de Seguridad 2024
+Autenticación Multifactorial (MFA);22,00%;35,00%;4%;30,00%;40%;Alto;Cybersecurity Trends 2024
+Ciberseguridad en la Nube;18,00%;50,00%;7%;28,00%;55%;Alto;Cloud Security 2024
+Protección contra Ransomware;14,00%;45,00%;5%;22,00%;50%;Alto;Ransomware Report 2024
+Análisis de Comportamiento (Behavioral Analytics);12,00%;37,00%;6%;18,00%;40%;Medio;Behavioral Security Report
+Blockchain para Seguridad;10,00%;30,00%;4%;15,00%;35%;Medio;Blockchain Trends 2024
+Cifrado de Datos en la Nube;21,00%;38,00%;5%;30,00%;42%;Alto;Data Encryption 2024
+Soluciones de Seguridad Basadas en la Nube;19,00%;42,00%;5%;27,00%;45%;Alto;Cloud Security Insights
+Zero Trust Security;23,00%;48,00%;7%;35,00%;50%;Alto;Zero Trust 2024
+Seguridad en Dispositivos Móviles;20,00%;35,00%;6%;28,00%;45%;Alto;Mobile Security 2024
+Ciberseguridad en IoT (Internet of Things);18,00%;40,00%;4%;25,00%;50%;Medio;IoT Security 2024
+Seguridad de la Infraestructura Crítica;17,00%;50,00%;8%;24,00%;55%;Alto;Critical Infrastructure 2024
+Gestión de Identidades y Accesos (IAM);26,00%;38,00%;5%;33,00%;45%;Alto;IAM Report 2024
+Seguridad de la Red Perimetral;21,00%;34,00%;4%;30,00%;40%;Medio;Network Security 2024
+Prevención de Pérdida de Datos (DLP);17,00%;42,00%;6%;26,00%;45%;Medio;Data Loss Prevention 2024
+Seguridad en el Correo Electrónico;22,00%;39,00%;5%;29,00%;42%;Alto;Email Security 2024
+Respuesta ante Incidentes Cibernéticos;25,00%;44,00%;6%;35,00%;48%;Alto;Incident Response 2024
+Firewalls de Nueva Generación;19,00%;35,00%;4%;27,00%;41%;Medio;NGFW Report 2024
+Análisis de Amenazas en Tiempo Real;22,00%;46,00%;7%;31,00%;50%;Alto;Threat Intelligence 2024
+Evaluación de Vulnerabilidades Automática;18,00%;40,00%;6%;26,00%;44%;Medio;Vulnerability Assessment 2024
+Controles de Acceso Basados en el Contexto;20,00%;38,00%;5%;28,00%;45%;Medio;Access Control 2024
+Seguridad Adaptativa;23,00%;45,00%;7%;34,00%;50%;Alto;Adaptive Security 2024
+Protección contra APTs (Amenazas Persistentes Avanzadas);28,00%;47,00%;6%;38,00%;52%;Alto;APT Protection 2024
+Gestión de Parcheo Automático;18,00%;37,00%;5%;26,00%;42%;Medio;Patch Management 2024
+Ciberseguridad Predictiva;15,00%;36,00%;4%;22,00%;41%;Medio;Predictive Cybersecurity 2024
+Gestión de Riesgos Cibernéticos;19,00%;40,00%;6%;28,00%;45%;Medio;Cyber Risk Management 2024
+Protección Contra Malware;27,00%;46,00%;8%;37,00%;53%;Alto;Malware Protection 2024
+Sistemas de Gestión de Información de Seguridad (SIEM);21,00%;44,00%;6%;30,00%;50%;Alto;SIEM Trends 2024
+Protección para Endpoint;29,00%;49,00%;7%;40,00%;55%;Alto;Endpoint Protection 2024
+Gestión de Criptografía;18,00%;39,00%;5%;27,00%;44%;Medio;Cryptography Security 2024
+Sistemas de Prevención de Intrusiones;20,00%;35,00%;4%;29,00%;41%;Medio;Intrusion Prevention 2024
+Seguridad en la Inteligencia Artificial;16,00%;42,00%;5%;24,00%;46%;Alto;AI Security 2024
+Plataformas de Seguridad como Servicio (SECaaS);19,00%;38,00%;5%;28,00%;44%;Medio;SECaaS Trends 2024
+Seguridad en Redes 5G;22,00%;45,00%;6%;32,00%;50%;Alto;5G Security 2024
+Ciberseguridad en el Edge;17,00%;41,00%;5%;24,00%;46%;Medio;Edge Security 2024
+Detección de Amenazas basada en IA;24,00%;42,00%;6%;32,00%;47%;Alto;AI Threat Detection 2024
+Seguridad de Microservicios;16,00%;38,00%;5%;22,00%;43%;Medio;Microservices Security 2024
+Uso de Criptografía Post-Cuántica;15,00%;32,00%;6%;20,00%;40%;Bajo;Quantum Cryptography 2024
+Protección en el Cloud Edge;23,00%;41,00%;6%;33,00%;48%;Medio;Cloud Edge Security 2024
+Ciberseguridad en el Continuo de DevOps;19,00%;37,00%;5%;28,00%;42%;Medio;DevOps Security 2024
+Gestión Centralizada de Amenazas;18,00%;40,00%;5%;25,00%;46%;Alto;Threat Management 2024
+Seguridad en el Blockchain;17,00%;43,00%;6%;24,00%;47%;Medio;Blockchain Security 2024
+Protecciones Basadas en Contexto;20,00%;36,00%;4%;28,00%;41%;Medio;Context-based Security 2024
+Validación de Seguridad Automatizada;19,00%;39,00%;5%;27,00%;42%;Medio;Automated Security Testing
+Seguridad en la Identidad Digital;22,00%;44,00%;6%;31,00%;48%;Alto;Digital Identity Security 2024
+Protección de la Privacidad en la Web;18,00%;38,00%;5%;26,00%;43%;Medio;Web Privacy 2024
+Monitoreo de Seguridad en Tiempo Real;24,00%;40,00%;6%;33,00%;46%;Alto;Real-Time Monitoring 2024
+Gestión de Seguridad de Contenedores;19,00%;37,00%;5%;27,00%;42%;Medio;Container Security 2024
+Protección ante Amenazas Persistentes;26,00%;42,00%;6%;34,00%;47%;Alto;Persistent Threat Protection
+Protección contra Botnets;21,00%;39,00%;5%;28,00%;43%;Medio;Botnet Protection 2024
+Seguridad en el Tráfico de Red;23,00%;43,00%;6%;32,00%;48%;Alto;Network Traffic Security 2024
+Protección de Aplicaciones Web;20,00%;40,00%;5%;29,00%;42%;Medio;Web Application Security 2024
+Autenticación Biométrica;15,00%;38,00%;6%;22,00%;45%;Alto;Biometric Authentication 2024
+Monitoreo de Vulnerabilidades en Tiempo Real;25,00%;47,00%;7%;36,00%;52%;Alto;Real-Time Vulnerability 2024
+Gestión de Eventos de Seguridad;18,00%;40,00%;5%;26,00%;43%;Medio;Security Event Management 2024
+Ciberseguridad en la Web 3.0;17,00%;33,00%;4%;23,00%;41%;Bajo;Web 3.0 Security 2024
+Seguridad en el Acceso a la Red;21,00%;37,00%;5%;30,00%;44%;Medio;Network Access Security 2024
+Protección ante Ataques DDoS;22,00%;42,00%;6%;32,00%;50%;Alto;DDoS Protection 2024
+Pruebas de Penetración en la Nube;19,00%;38,00%;5%;28,00%;43%;Medio;Cloud Pen Testing 2024
+Gestión de Seguridad en la Red Inalámbrica;16,00%;35,00%;5%;23,00%;41%;Medio;Wireless Security 2024
+Protección en el Software como Servicio (SaaS);22,00%;39,00%;5%;30,00%;44%;Alto;SaaS Security 2024
+Seguridad en el Acceso a la Red de Alta Velocidad;21,00%;36,00%;4%;29,00%;42%;Medio;High-Speed Network Security
+Seguridad en el Desarrollo de Software (DevSecOps);25,00%;48,00%;6%;35,00%;51%;Alto;DevSecOps Security 2024
+Análisis y Prevención de Fraudes;19,00%;37,00%;5%;27,00%;43%;Medio;Fraud Prevention 2024
+Seguridad en el Acceso a los Datos de Clientes;21,00%;40,00%;5%;30,00%;45%;Alto;Customer Data Access Security
+Seguridad en Infraestructura de Red Virtual;20,00%;38,00%;5%;28,00%;44%;Medio;Virtual Network Security 2024
+Gestión de Privacidad de Datos;22,00%;43,00%;6%;32,00%;47%;Alto;Data Privacy 2024
+Protección ante Amenazas en la Red;20,00%;39,00%;5%;29,00%;43%;Medio;Network Threat Protection 2024
+Ciberseguridad en la Transacción Financiera;24,00%;47,00%;7%;34,00%;51%;Alto;Financial Security 2024
+Seguridad en el Internet de las Cosas (IoT);18,00%;40,00%;6%;26,00%;45%;Medio;IoT Security 2024
